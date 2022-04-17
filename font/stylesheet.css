@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-Regular.eot');
+    src: local('Nutmeg Headline Regular'), local('NutmegHeadline-Regular'),
+        url('NutmegHeadline-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-Regular.woff2') format('woff2'),
+        url('NutmegHeadline-Regular.woff') format('woff'),
+        url('NutmegHeadline-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-Thin.eot');
+    src: local('Nutmeg Headline Thin'), local('NutmegHeadline-Thin'),
+        url('NutmegHeadline-Thin.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-Thin.woff2') format('woff2'),
+        url('NutmegHeadline-Thin.woff') format('woff'),
+        url('NutmegHeadline-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-ThinItalic.eot');
+    src: local('Nutmeg Headline Thin Italic'), local('NutmegHeadline-ThinItalic'),
+        url('NutmegHeadline-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-ThinItalic.woff2') format('woff2'),
+        url('NutmegHeadline-ThinItalic.woff') format('woff'),
+        url('NutmegHeadline-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-LightItalic.eot');
+    src: local('Nutmeg Headline Light Italic'), local('NutmegHeadline-LightItalic'),
+        url('NutmegHeadline-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-LightItalic.woff2') format('woff2'),
+        url('NutmegHeadline-LightItalic.woff') format('woff'),
+        url('NutmegHeadline-LightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-Bold.eot');
+    src: local('Nutmeg Headline Bold'), local('NutmegHeadline-Bold'),
+        url('NutmegHeadline-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-Bold.woff2') format('woff2'),
+        url('NutmegHeadline-Bold.woff') format('woff'),
+        url('NutmegHeadline-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-Black.eot');
+    src: local('Nutmeg Headline Black'), local('NutmegHeadline-Black'),
+        url('NutmegHeadline-Black.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-Black.woff2') format('woff2'),
+        url('NutmegHeadline-Black.woff') format('woff'),
+        url('NutmegHeadline-Black.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Book';
+    src: url('NutmegHeadline-BookItalic.eot');
+    src: local('Nutmeg Headline Book Italic'), local('NutmegHeadline-BookItalic'),
+        url('NutmegHeadline-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-BookItalic.woff2') format('woff2'),
+        url('NutmegHeadline-BookItalic.woff') format('woff'),
+        url('NutmegHeadline-BookItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-BoldItalic.eot');
+    src: local('Nutmeg Headline Bold Italic'), local('NutmegHeadline-BoldItalic'),
+        url('NutmegHeadline-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-BoldItalic.woff2') format('woff2'),
+        url('NutmegHeadline-BoldItalic.woff') format('woff'),
+        url('NutmegHeadline-BoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-BlackItalic.eot');
+    src: local('Nutmeg Headline Black Italic'), local('NutmegHeadline-BlackItalic'),
+        url('NutmegHeadline-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-BlackItalic.woff2') format('woff2'),
+        url('NutmegHeadline-BlackItalic.woff') format('woff'),
+        url('NutmegHeadline-BlackItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Ex';
+    src: url('NutmegHeadline-ExtraBoldItalic.eot');
+    src: local('Nutmeg Headline Extra Bold Italic'), local('NutmegHeadline-ExtraBoldItalic'),
+        url('NutmegHeadline-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-ExtraBoldItalic.woff2') format('woff2'),
+        url('NutmegHeadline-ExtraBoldItalic.woff') format('woff'),
+        url('NutmegHeadline-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Ultra Light It';
+    src: url('NutmegHeadline-UltraLightItalic.eot');
+    src: local('Nutmeg Headline Ultra Light Italic'), local('NutmegHeadline-UltraLightItalic'),
+        url('NutmegHeadline-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-UltraLightItalic.woff2') format('woff2'),
+        url('NutmegHeadline-UltraLightItalic.woff') format('woff'),
+        url('NutmegHeadline-UltraLightItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Ultra';
+    src: url('NutmegHeadline-UltraBlack.eot');
+    src: local('Nutmeg Headline Ultra Black'), local('NutmegHeadline-UltraBlack'),
+        url('NutmegHeadline-UltraBlack.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-UltraBlack.woff2') format('woff2'),
+        url('NutmegHeadline-UltraBlack.woff') format('woff'),
+        url('NutmegHeadline-UltraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Book';
+    src: url('NutmegHeadline-Book.eot');
+    src: local('Nutmeg Headline Book'), local('NutmegHeadline-Book'),
+        url('NutmegHeadline-Book.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-Book.woff2') format('woff2'),
+        url('NutmegHeadline-Book.woff') format('woff'),
+        url('NutmegHeadline-Book.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Ultra';
+    src: url('NutmegHeadline-UltraLight.eot');
+    src: local('Nutmeg Headline Ultra Light'), local('NutmegHeadline-UltraLight'),
+        url('NutmegHeadline-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-UltraLight.woff2') format('woff2'),
+        url('NutmegHeadline-UltraLight.woff') format('woff'),
+        url('NutmegHeadline-UltraLight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-Light.eot');
+    src: local('Nutmeg Headline Light'), local('NutmegHeadline-Light'),
+        url('NutmegHeadline-Light.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-Light.woff2') format('woff2'),
+        url('NutmegHeadline-Light.woff') format('woff'),
+        url('NutmegHeadline-Light.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Extra';
+    src: url('NutmegHeadline-ExtraBold.eot');
+    src: local('Nutmeg Headline Extra Bold'), local('NutmegHeadline-ExtraBold'),
+        url('NutmegHeadline-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-ExtraBold.woff2') format('woff2'),
+        url('NutmegHeadline-ExtraBold.woff') format('woff'),
+        url('NutmegHeadline-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline Ultra Black It';
+    src: url('NutmegHeadline-UltraBlackItalic.eot');
+    src: local('Nutmeg Headline Ultra Black Italic'), local('NutmegHeadline-UltraBlackItalic'),
+        url('NutmegHeadline-UltraBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-UltraBlackItalic.woff2') format('woff2'),
+        url('NutmegHeadline-UltraBlackItalic.woff') format('woff'),
+        url('NutmegHeadline-UltraBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nutmeg Headline';
+    src: url('NutmegHeadline-RegularItalic.eot');
+    src: local('Nutmeg Headline Regular Italic'), local('NutmegHeadline-RegularItalic'),
+        url('NutmegHeadline-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('NutmegHeadline-RegularItalic.woff2') format('woff2'),
+        url('NutmegHeadline-RegularItalic.woff') format('woff'),
+        url('NutmegHeadline-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
